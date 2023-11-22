@@ -15,11 +15,11 @@
   <br>
 
 <div align="center">
-🔭 I’m currently working on Improving my C/C++ skills  
+🔭 I’m currently working on improving my skills in C/C++ and Python 
   
-🌱 I’m currently learning C/C++ and Python  
+🌱 2022-24 Student in "Advanced software developer embedded systems" 
   
-❓ Ask me about anything related to Embedded and related technologies  
+❓ Ask me about anything about embedded and related technologies  
   
 ⚡ Fun fact: I use tabs over spaces  
 </div> 
