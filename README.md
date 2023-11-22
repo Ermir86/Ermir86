@@ -20,6 +20,8 @@
 🌱 2022-24 Student in "Advanced software developer embedded systems" 
   
 ❓ Ask me about anything about embedded and related technologies  
+
+📫 How to reach me **tirons46@gmail.com**
   
 ⚡ Fun fact: I use tabs over spaces  
 </div> 
