@@ -16,6 +16,7 @@
 
 <div align="center">
 🔭 I’m currently working on improving my skills in C/C++ and Python 
+
   
 🌱 2022-24 Student in "Advanced software developer embedded systems" 
   
